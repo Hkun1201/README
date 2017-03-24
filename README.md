@@ -8,20 +8,23 @@
 	* **镜头复位**<br>
 	GUI控件——RESETVIEW
 * 改变地表样式
-	* 贴图
-	* 色块
+	* 贴图/色块<br>
+	GUI控件——change_earth_texture
 * 改变大陆板块样式
 	* 高度
-		* 高度统一
-		GUI控件——Uniform Color
-		* 设定基础高度	
+		* 高度统一<br>
 		GUI控件——Uniform Height
-	* 线框
-	* 实体
-	* 颜色统一
+		* 设定基础高度<br>	
+		GUI控件——Extrusion Amount
+	* 线框/实体<br>
+	GUI控件——wireframe	
+	* 颜色统一<br>
+	GUI控件——Uniform Color
 * 改变城市信息样式
-	* 形状
-	* 颜色
+	* 形状<br>	
+	GUI控件——city_info_shape
+	* 颜色<br>
+	GUI控件——city_info_color
 	* 数值
 * 连接地球上两点
 	* 创建<br>
