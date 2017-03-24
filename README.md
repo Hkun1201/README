@@ -27,7 +27,7 @@
 	* **颜色**<br>
 	GUI控件——city_info_color
 	* **数值**<br>
-	
+	控制台——city_info_unit.setamount(parms)
 * 手动连接地球上两点
 	* **创建**<br>
 	鼠标点击地球表面上两点创建连线，并且将起/终点位置数据记录在GUI中
